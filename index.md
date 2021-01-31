@@ -1,4 +1,13 @@
-This is the first page of my website.
+
+---
+
+employeename:Sumit
+employeecode:987
+
+---
+
+
+This is the first page of my website with {{page.employeename}}. The unique {{page.employeecode}} is doing his bit.
 - Editing this file for practicing. 
 - Done some changes. 
 These changes are done on Sunday, 31st Jan 2021.
