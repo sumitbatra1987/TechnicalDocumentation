@@ -14,3 +14,11 @@ These changes are done on Sunday, 31st Jan 2021.
 Watch out for more updates in near future.
 
 Show the code: {{ site.code }}
+
+Data file contents:
+
+{% for item in site.data.demo %}
+
+The country needs {{ item.name }} was created with employee {{ item.code }}
+
+{ % endfor % }
