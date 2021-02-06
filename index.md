@@ -23,4 +23,4 @@ The country needs {{item.plant}} was created with employee {{item.breed}}
 
 {% endfor %}
 
-Common text is used in: {%include.common2.txt%}
+Common text is used in: {%include common2.txt%}
