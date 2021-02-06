@@ -19,6 +19,6 @@ Data file contents:
 
 {% for item in site.data.demo %}
 
-The country needs {{item.name}} was created with employee {{item.code}}
+The country needs {{item.plant}} was created with employee {{item.breed}}
 
 {% endfor %}
