@@ -21,4 +21,4 @@ Data file contents:
 
 The country needs {{ item.name }} was created with employee {{ item.code }}
 
-{ % endfor % }
+{% endfor %}
